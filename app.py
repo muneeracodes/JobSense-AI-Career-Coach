@@ -555,7 +555,7 @@ st.markdown("""
             <span class="topnav-dot"></span>
             100% free · no login
         </div>
-        <div class="topnav-github"><a href="https://github.com/groq/jobsense" target="_blank">⭐ GitHub</a></div>
+        <div class="topnav-github"><a href="https://github.com/muneeracodes/JobSense-AI-Career-Coach" target="_blank">⭐ GitHub</a></div>
     </div>
 </div>
 """, unsafe_allow_html=True)
