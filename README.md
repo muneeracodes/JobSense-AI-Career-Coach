@@ -10,6 +10,10 @@
 
 ![JobSense Screenshot](screenshot.png)
 
+👉 **[Try JobSense Live →](https://jobsense-ai-career-coach-g9ucp9ucell8uzph7zrb2e.streamlit.app/)**
+
+
+
 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -18,6 +22,7 @@
 [![Groq](https://img.shields.io/badge/Groq-Llama_3.3_70B-F55036?style=for-the-badge)](https://groq.com)
 [![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-0057B7?style=for-the-badge)](https://github.com/facebookresearch/faiss)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://jobsense-ai-career-coach-g9ucp9ucell8uzph7zrb2e.streamlit.app/)
 
 ---
 
@@ -215,7 +220,7 @@ https://jobsense-ai-career-coach-g9ucp9ucell8uzph7zrb2e.streamlit.app/
 ## 🧑‍💻 Built by
 
 **Muneera** — [@muneeracodes](https://github.com/muneeracodes)
-
+🚀 **Live App:** [jobsense-ai-career-coach-g9ucp9ucell8uzph7zrb2e.streamlit.app](https://jobsense-ai-career-coach-g9ucp9ucell8uzph7zrb2e.streamlit.app/)
 Built to solve a real problem while job hunting — and as a portfolio project demonstrating LangChain RAG with dual vector stores.
 
 ---
